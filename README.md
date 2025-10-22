@@ -1,5 +1,5 @@
 <br>
-<p align="center">Hello World, me chamo Well, sou estudante de engenharia da computação</p>
+<p align="center">Hello World, me chamo Well, sou estudante de Ciência da computação</p>
 <br>
 
 ###
